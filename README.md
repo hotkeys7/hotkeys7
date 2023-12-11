@@ -4,7 +4,7 @@
 **hotkeys7/hotkeys7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 
-  <img align="right" alt="Coding" width="400" src="[https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif](https://htmlcolorcodes.com/assets/images/colors/sky-blue-color-solid-background-1920x1080.png)">
+  <img align="right" alt="Coding" width="400" src="">
 
 Here are some ideas to get you started:
 
