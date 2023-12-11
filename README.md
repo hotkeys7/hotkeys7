@@ -7,7 +7,7 @@
   <img align="right" alt="Coding" width="400" src="">
 
 <!-- Markdown -->
-/header.png
+![/header.png]
 
 
 Here are some ideas to get you started:
