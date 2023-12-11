@@ -6,9 +6,6 @@
 
   <img align="right" alt="Coding" width="400" src="">
 
-  <!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Here are some ideas to get you started:
 
@@ -21,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+  <!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
